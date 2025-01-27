@@ -1,6 +1,6 @@
 # TASK-MANAGER
 
-ITs a simple Task Manager made using JAVA which does basic add and upadtaion of task and also priortize task acording to Due time.
+ITs a simple Task Manager made using JAVA which does basic add and updating of task and also priortize task according to Due time.
 
 
 _Note:_
